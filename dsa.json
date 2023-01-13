@@ -1,0 +1,214 @@
+[
+  {
+    "topic": "Array and String",
+    "url": "https://course.masaischool.com/lectures/7115"
+  },
+  {
+    "topic": "Strings - Palindrome, Anagram, ASCII",
+    "url": "https://course.masaischool.com/lectures/7160"
+  },
+  {
+    "topic": "Introduction to Multi-Dimensional Arrays",
+    "url": "https://course.masaischool.com/lectures/7223"
+  },
+  {
+    "topic": "2d arrays - Traversals & Diagonals",
+    "url": "https://course.masaischool.com/lectures/7277"
+  },
+  {
+    "topic": "2d arrays - Transpose & Rotation",
+    "url": "https://course.masaischool.com/lectures/7357"
+  },
+  {
+    "topic": "PSC (2d arrays), Basics of 3d arrays",
+    "url": "https://course.masaischool.com/lectures/7544"
+  },
+  {
+    "topic": "DSA Unit II - II",
+    "url": "https://course.masaischool.com/lectures/7596"
+  },
+  {
+    "topic": "Key - Value Pairs",
+    "url": "https://course.masaischool.com/lectures/7629"
+  },
+  {
+    "topic": "Time-Complexity - 1",
+    "url": "https://course.masaischool.com/lectures/7740"
+  },
+  {
+    "topic": "Time-Complexity-2",
+    "url": "https://course.masaischool.com/lectures/7838"
+  },
+  {
+    "topic": "Time-Complexity-3",
+    "url": "https://course.masaischool.com/lectures/7856"
+  },
+  {
+    "topic": "Space-Complexity",
+    "url": "https://course.masaischool.com/lectures/7906"
+  },
+  {
+    "topic": "Two Pointer Technique",
+    "url": "https://course.masaischool.com/lectures/8004"
+  },
+  {
+    "topic": "Sliding Window Technique",
+    "url": "https://course.masaischool.com/lectures/8076"
+  },
+  {
+    "topic": "Introduction to Algorithms - Sorting",
+    "url": "https://course.masaischool.com/lectures/8170"
+  },
+  {
+    "topic": "Introduction to Algorithms : Bubble Sort & Selection Sort Follow Up",
+    "url": "https://course.masaischool.com/lectures/8171"
+  },
+  {
+    "topic": "PSC on Sorting",
+    "url": "https://course.masaischool.com/lectures/8310"
+  },
+  {
+    "topic": "Data Structures (Introduction to Stacks)",
+    "url": "https://course.masaischool.com/lectures/8345"
+  },
+  {
+    "topic": "Introduction to Stacks : Follow Up",
+    "url": "https://course.masaischool.com/lectures/8474"
+  },
+  {
+    "topic": "Approach to Smaller Neighbour Element",
+    "url": "https://course.masaischool.com/lectures/8479"
+  },
+  {
+    "topic": "Smaller Neighbor Element : Follow Up",
+    "url": "https://course.masaischool.com/lectures/8513"
+  },
+  {
+    "topic": "Balanced Parenthesis",
+    "url": "https://course.masaischool.com/lectures/8535"
+  },
+  {
+    "topic": "Use Side Lane",
+    "url": "https://course.masaischool.com/lectures/8679"
+  },
+  {
+    "topic": "Introduction to Queue Data Structure",
+    "url": "https://course.masaischool.com/lectures/9067"
+  },
+  {
+    "topic": "Implement Stack using Queue",
+    "url": "https://course.masaischool.com/lectures/9102"
+  },
+  {
+    "topic": "Implement Queue Using Stacks",
+    "url": "https://course.masaischool.com/lectures/9138"
+  },
+  {
+    "topic": "Introduction to Recursion",
+    "url": "https://course.masaischool.com/lectures/9178"
+  },
+  {
+    "topic": "Recursion-PSC-1",
+    "url": "https://course.masaischool.com/lectures/9324"
+  },
+  {
+    "topic": "Recursion PSC2",
+    "url": "https://course.masaischool.com/lectures/9568"
+  },
+  {
+    "topic": "Merge Sort",
+    "url": "https://course.masaischool.com/lectures/9731"
+  },
+  {
+    "topic": "Quick sort",
+    "url": "https://course.masaischool.com/lectures/9747"
+  },
+  {
+    "topic": "Introduction to Backtracking",
+    "url": "https://course.masaischool.com/lectures/9803"
+  },
+  {
+    "topic": "PSC on Backtracking",
+    "url": "https://course.masaischool.com/lectures/9933"
+  },
+  {
+    "topic": "Implementation of Linked List in Javascript",
+    "url": "https://course.masaischool.com/lectures/9993"
+  },
+  {
+    "topic": "Linked List 2",
+    "url": "https://course.masaischool.com/lectures/10080"
+  },
+  {
+    "topic": "Linked List-1 [PSC]",
+    "url": "https://course.masaischool.com/lectures/10110"
+  },
+  {
+    "topic": "Linked-List PSC2",
+    "url": "https://course.masaischool.com/lectures/10248"
+  },
+  {
+    "topic": "Linked List-3 [PSC]",
+    "url": "https://course.masaischool.com/lectures/10431"
+  },
+  {
+    "topic": "Introduction to Binary Search",
+    "url": "https://course.masaischool.com/lectures/10514"
+  },
+  {
+    "topic": "Binary Search PSC-1",
+    "url": "https://course.masaischool.com/lectures/10630"
+  },
+  {
+    "topic": "Binary Search PSC-2",
+    "url": "https://course.masaischool.com/lectures/10647"
+  },
+  {
+    "topic": "Introduction to Greedy",
+    "url": "https://course.masaischool.com/lectures/10753"
+  },
+  {
+    "topic": "PSC-1 Greedy",
+    "url": "https://course.masaischool.com/lectures/10775"
+  },
+  {
+    "topic": "PSC-2 Greedy",
+    "url": "https://course.masaischool.com/lectures/10892"
+  },
+  {
+    "topic": "Introduction to DP",
+    "url": "https://course.masaischool.com/lectures/11032"
+  },
+  {
+    "topic": "DP-PSC-1",
+    "url": "https://course.masaischool.com/lectures/11054"
+  },
+  {
+    "topic": "DP-2",
+    "url": "https://course.masaischool.com/lectures/11092"
+  },
+  {
+    "topic": "DP-4",
+    "url": "https://course.masaischool.com/lectures/11096"
+  },
+  {
+    "topic": "DP-5",
+    "url": "https://course.masaischool.com/lectures/11168"
+  },
+  {
+    "topic": "DP-6",
+    "url": "https://course.masaischool.com/lectures/11262"
+  },
+  {
+    "topic": "DP Doubts Discussion",
+    "url": "https://course.masaischool.com/lectures/11350"
+  },
+  {
+    "topic": "DSA Revision",
+    "url": "https://course.masaischool.com/lectures/11909"
+  },
+  {
+    "topic": "DSA Revision",
+    "url": "https://course.masaischool.com/lectures/11914"
+  }
+]

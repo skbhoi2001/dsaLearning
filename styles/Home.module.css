@@ -114,7 +114,32 @@
     flex-direction: column;
   }
 }
-
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.dataC1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.topicName {
+  width: 80%;
+  font-weight: 700;
+}
+.redirectButton {
+  height: 50px;
+  width: 80px;
+  background-color: #111;
+  color: #eaeaea;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 @media (prefers-color-scheme: dark) {
   .card,
   .footer {
